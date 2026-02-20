@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Static CV/resume for Dr. Svetlana Ricova (Internal Medicine Specialist). No build system, no framework — just hand-crafted HTML+CSS with a Markdown data source.
+Static CV/resume for Dr. Svetlana Rîcova (Internal Medicine Specialist). No build system, no framework — just hand-crafted HTML+CSS with a Markdown data source.
 
 ## Architecture
 

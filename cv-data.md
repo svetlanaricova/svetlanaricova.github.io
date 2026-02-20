@@ -1,8 +1,8 @@
-# CV — Svetlana Ricova
+# CV — Svetlana Rîcova
 
 ## Date personale
 
-- **Nume:** Svetlana Ricova
+- **Nume:** Svetlana Rîcova
 - **Cetățenie:** română
 - **Adresă:** București, România
 - **Telefon:** (+40) 0721 893 582
