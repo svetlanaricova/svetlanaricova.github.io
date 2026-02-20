@@ -3,7 +3,6 @@
 ## Date personale
 
 - **Nume:** Svetlana Ricova
-- **Data nașterii:** 31.03.1990
 - **Cetățenie:** română
 - **Adresă:** București, România
 - **Telefon:** (+40) 0721 893 582
@@ -65,6 +64,8 @@ Medic specialist în Medicină Internă cu peste 9 ani de experiență clinică,
 
 - **Perioada:** dec. 2024 – mai 2025
 
+## Alte studii
+
 ### Licență în Științe Economice — Finanțe și Bănci
 
 - **Instituție:** Universitatea de Stat din Moldova
@@ -89,7 +90,6 @@ Medic specialist în Medicină Internă cu peste 9 ani de experiență clinică,
 
 - Cercetare clinică (GCP/ICH)
 - Sisteme informatice medicale
-- Microsoft Office
 
 ## Permis de conducere
 

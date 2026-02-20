@@ -1,0 +1,7 @@
+{
+  "name": "cv-svetlana-ricova",
+  "private": true,
+  "scripts": {
+    "build:pdf": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --headless --disable-gpu --no-sandbox --print-to-pdf=CV_Svetlana_Ricova.pdf --print-to-pdf-no-header --no-margins index.html"
+  }
+}
