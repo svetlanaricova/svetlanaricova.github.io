@@ -83,7 +83,7 @@ Medic specialist în Medicină Internă cu peste 9 ani de experiență clinică,
 ### Limbi
 
 - **Limbi materne:** Română, Rusă
-- **Engleză:** Înțelegere B2, Citit B2, Scris B2, Vorbit B1
+- **Engleză:** B2
 
 ### Competențe profesionale
 
